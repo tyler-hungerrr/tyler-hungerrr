@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tyler-hungerrr
 - 👀 I’m interested in video gaming and lego building
-- 🌱 I’m currently learning Cyber Security in Computer Science
+- 🌱 I’m currently learning Cyber Security andComputer Science
 - 📫 How to reach me is on twitter.com/tyler_hungerr
 
 <!---
